@@ -1,4 +1,7 @@
 # Laporan Minggu 1 - Intro CIA
+Nama : Fiqri Nur Hidayanto
+NIM  : 230202754
+Kelas: 5IKKA
 
 Konsep Dasar Confidentiality, Integrity, Availability (CIA)
 
